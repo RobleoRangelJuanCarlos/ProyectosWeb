@@ -1,0 +1,13 @@
+﻿Entidad,Entidad-N,municipio,Municipio,Localidad,Ubicación,Tipo,Edad,Sexo,Talla,Talla-M,Peso,IMC,Categoria
+9,Distrito Federal,17,Venustiano Carranza,1,Venustiano Carranza,Urbano,5,Mujer,111.44,1.1143334,19.1,16.9462826,Normal
+9,Distrito Federal,15,Cuauhtémoc,1,Cuauhtémoc,Urbano,5,Mujer,108.2,1.082,19.24,17.10217333,Normal
+9,Distrito Federal,16,Miguel Hidalgo,1,Miguel Hidalgo,Urbano,10,Hombre,146.14,1.4613333,34.66,18.74112075,Normal
+9,Distrito Federal,14,Benito Juárez,1,Benito Juárez,Urbano,12,Mujer,152.66,1.5266668,69.860001,23.633472,Obesidad
+9,Distrito Federal,3,Coyoacán,1,Coyoacán,Urbano,13,Mujer,161.16,1.6116667,64.660004,23.057449,Sobrepeso
+9,Distrito Federal,10,Álvaro Obregón,1,Álvaro Obregón,Urbano,15,Mujer,162.5,1.625,70,20.73829917,Sobrepeso
+9,Distrito Federal,4,Cuajimalpa de Morelos,1,Cuajimalpa de Morelos,Urbano,9,Mujer,142,1.42,35,16.72028983,Normal
+9,Distrito Federal,5,Gustavo A. Madero,1,Gustavo A. Madero,Urbano,9,Hombre,131.66,1.3166667,41.560001,20.56379635,Obesidad
+9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,5,Hombre,114.9,1.149,20.559999,19.32063175,Normal
+9,Distrito Federal,9,Milpa Alta,1,Villa Milpa Alta,Urbano,18,Mujer,156,1.5599999,60.799999,20.2797614,Sobrepeso
+9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,16,Mujer,154.94,1.5493333,68.239998,20.83772691,Sobrepeso
+9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,17,Hombre,165.5,1.655,55,23.18373,Normal
